@@ -1,63 +1,65 @@
 <div align="center">
 
-<img src="./assets/cg-sticker.gif" alt="Animated Sticker" width="160" />
+<img src="./assets/cg-runway-sticker.gif" alt="Fashion Computer Graphics Sticker" width="165" />
 
-# Computer Graphics — Practical & Lab Repository
+# 👗 Computer Graphics — Practical & Lab Repository
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=B.Sc.+(IT)+Second+Year+(SYBScIT)+Lab;2D+%26+3D+Graphics+%7C+Rasterization+%7C+Clipping;Priyanshi+Gupta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=21&pause=1000&color=E11D48&center=true&vCenter=true&width=540&lines=Computer+Graphics+Lab+%7C+Priyanshi+Gupta;Digital+Pattern+Grids+%7C+2D+%26+3D+Visuals;Couture+Vibe+%26+Interactive+Animation)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Sticker-Animated%20Lab-F43F5E?style=flat-square" alt="Sticker Badge" />
-  <img src="https://img.shields.io/badge/Course-SYBScIT-6366F1?style=flat-square" alt="Course Badge" />
-  <img src="https://img.shields.io/badge/Subject-Computer%20Graphics-10B981?style=flat-square" alt="Subject Badge" />
+  <img src="https://img.shields.io/badge/Theme-Fashion%20Designer%20Edit-FFF1F2?style=for-the-badge&labelColor=FFE4E6&color=E11D48" alt="Theme Badge" />
+  <img src="https://img.shields.io/badge/Subject-Computer%20Graphics-FAF5FF?style=for-the-badge&labelColor=F3E8FF&color=9333EA" alt="Subject Badge" />
+  <img src="https://img.shields.io/badge/Designer-Priyanshi%20Gupta-FEF3C7?style=for-the-badge&labelColor=FEF9C3&color=D97706" alt="Designer Badge" />
 </p>
 
 </div>
 
-**Course:** B.Sc. (IT) — Second Year (SYBScIT)  
-**Student Name:** Priyanshi Gupta  
-**Subject:** Computer Graphics  
+---
+
+> ✂️ **Creator:** Priyanshi Gupta  
+> 🧵 **Subject:** Computer Graphics  
+>  runway **Aesthetic:** Couture Sketchbook, Symmetry, Pattern Grids & Motion  
 
 ---
 
-## About This Repository
+## 🪡 About This Repository
 
-<img src="./assets/mini-sticker.gif" alt="Mini Sticker" align="right" width="105" />
+<img src="./assets/atelier-mini-sticker.gif" alt="Atelier Mini Sticker" align="right" width="110" />
 
-This repository contains practical programs, lab assignments, and mini-projects implemented as part of the **B.Sc. (IT) Second Year Computer Graphics** coursework. It covers core 2D/3D rendering concepts, line and circle rasterization, geometric transformations, clipping algorithms, and basic animation.
+This repository showcases practical programs, lab experiments, and visual mini-projects in **Computer Graphics**, styled like a digital fashion sketchbook. From precision line and circle drafting to symmetry, transformations, clipping frames, and motion studies, every lab piece blends clean geometry with visual flair.
 
 ---
 
-## Topics Covered
+## 👗 Topics Covered
 
-* **Scan Conversion & Rasterization:** DDA Line Drawing, Bresenham's Line & Circle Drawing Algorithms
-* **2D Geometric Transformations:** Translation, Scaling, Rotation, Shearing, and Reflection (using homogeneous coordinates)
-* **Clipping Algorithms:** Cohen-Sutherland Line Clipping, Sutherland-Hodgman Polygon Clipping
-* **3D Concepts & Projections:** Basic 3D transformations and view concepts
-* **Curves & Animation:** Bezier / B-spline basics, simple frame-based animations, and shading/filling fundamentals (such as Flood Fill / Boundary Fill)
+- **🖌️ Scan Conversion & Rasterization:** DDA Line Drawing, Bresenham's Line & Circle Drawing Algorithms
+- **📐 2D Geometric Transformations:** Translation, Scaling, Rotation, Shearing, and Reflection (using homogeneous coordinates)
+- **✂️ Clipping Algorithms:** Cohen-Sutherland Line Clipping, Sutherland-Hodgman Polygon Clipping
+- **🧊 3D Concepts & Projections:** Basic 3D transformations and view concepts
+- **🎞️ Curves & Animation:** Bezier / B-spline basics, simple frame-based animations, and shading/filling fundamentals (such as Flood Fill / Boundary Fill)
 
 <details>
-<summary><strong>Sticker Pack Preview</strong></summary>
+<summary><strong>✨ Open Runway Sticker Pack Preview</strong></summary>
 <br/>
 <div align="center">
-  <img src="./assets/sticker-1.gif" alt="Sticker 1" width="115" />
-  <img src="./assets/sticker-2.gif" alt="Sticker 2" width="115" />
-  <img src="./assets/sticker-3.gif" alt="Sticker 3" width="115" />
+  <img src="./assets/sticker-sketch.gif" alt="Sketch Sticker" width="115" />
+  <img src="./assets/sticker-drape.gif" alt="Drape Sticker" width="115" />
+  <img src="./assets/sticker-runway.gif" alt="Runway Sticker" width="115" />
 </div>
 </details>
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```text
-computer-graphics-sybscit/
+computer-graphics-lab/
 ├── assets/
-│   ├── cg-sticker.gif
-│   ├── mini-sticker.gif
-│   ├── sticker-1.gif
-│   ├── sticker-2.gif
-│   └── sticker-3.gif
+│   ├── cg-runway-sticker.gif
+│   ├── atelier-mini-sticker.gif
+│   ├── sticker-sketch.gif
+│   ├── sticker-drape.gif
+│   └── sticker-runway.gif
 ├── 01-line-and-circle-drawing/
 │   ├── dda_line.c
 │   ├── bresenham_line.c
